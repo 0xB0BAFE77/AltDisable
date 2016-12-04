@@ -1,4 +1,4 @@
-# AltDisable
+# Alt Menu Off
 Allows disabling of the alt button in whatever programs you want.
 When the tray icon is green and black, alt is working.
 When the tray icon is red and black, alt is disabled.
