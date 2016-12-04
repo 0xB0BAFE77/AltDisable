@@ -1,5 +1,9 @@
 # Alt Menu Off
-Allows disabling of the alt button in whatever programs you want.
+Allows disabling of the alt menu button in whatever programs you want.
+Normally, this event is caused by the Alt Up event. In other words, when you release the alt button.
+This script disables that function in any windows you tell it to.
+Helpful with Adobe programs.
+
 When the tray icon is green and black, alt is working.
 When the tray icon is red and black, alt is disabled.
 
