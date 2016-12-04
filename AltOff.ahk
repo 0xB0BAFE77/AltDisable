@@ -24,7 +24,6 @@ return
 ^Numpad3::GoSub, Reset
 ^Numpad4::GoSub, AltToggle
 
-Alt::return
 Alt Up::return
 
 AddWindow:
@@ -59,13 +58,11 @@ AltToggle:
 return
 
 DisableAlt:
-	Hotkey, Alt, On
 	Hotkey, Alt Up, On
 	Menu, Tray, Icon, % altOffPic
 return
 
 EnableAlt:
-	Hotkey, Alt, Off
 	Hotkey, Alt Up, Off
 	Menu, Tray, Icon, % altOnPic
 return
