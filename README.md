@@ -1,4 +1,4 @@
-# Alt Menu Off
+# Alt Menu Off (Not ready for use yet. Still buggy.)
 Allows disabling of the alt menu button in whatever programs you want.  
 Normally, this event is caused by the Alt Up event. In other words, when you release the alt button.  
 This script disables that function in any windows you tell it to.  
